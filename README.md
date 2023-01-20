@@ -10,7 +10,7 @@ This is my solution to the FreeCodeCamp Front End Libraries Projects - Build a M
 
 ## Project Objectives
 
-uild an app that is functionally similar to this: https://markdown-previewer.freecodecamp.rocks/.
+build an app that is functionally similar to this: https://markdown-previewer.freecodecamp.rocks/.
 
 Fulfill the below user stories and get all of the tests to pass. Use whichever libraries or APIs you need. Give it your own personal style.
 
