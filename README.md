@@ -2,13 +2,13 @@
 
 This is my solution to the FreeCodeCamp Front End Libraries Projects - Build a Markdown Previewer.
 
-##Technologies used
-*React js
-*HTML
-*SCSS
-*Javascript
+## Technologies used
+* React js
+* HTML
+* SCSS
+* Javascript
 
-##Project Objectives
+## Project Objectives
 
 uild an app that is functionally similar to this: https://markdown-previewer.freecodecamp.rocks/.
 
